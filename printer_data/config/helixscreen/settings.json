@@ -689,6 +689,14 @@
                   "id": "camera",
                   "row": -1,
                   "rowspan": 2
+                },
+                {
+                  "col": 6,
+                  "colspan": 4,
+                  "enabled": true,
+                  "id": "exclude_map",
+                  "row": 2,
+                  "rowspan": 2
                 }
               ]
             }
