@@ -452,7 +452,7 @@
                 },
                 {
                   "col": 0,
-                  "colspan": 2,
+                  "colspan": 4,
                   "enabled": true,
                   "id": "nozzle_temps",
                   "row": 0,
