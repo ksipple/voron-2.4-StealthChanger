@@ -403,11 +403,11 @@
                   "rowspan": 4
                 },
                 {
-                  "col": 10,
+                  "col": 8,
                   "colspan": 2,
                   "enabled": true,
                   "id": "temperature",
-                  "row": 6,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
