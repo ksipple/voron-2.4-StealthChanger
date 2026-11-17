@@ -459,11 +459,11 @@
                   "rowspan": 4
                 },
                 {
-                  "col": 10,
+                  "col": 8,
                   "colspan": 2,
                   "enabled": true,
                   "id": "filament",
-                  "row": 0,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
@@ -491,11 +491,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 8,
+                  "col": 10,
                   "colspan": 2,
                   "enabled": true,
                   "id": "shutdown",
-                  "row": 6,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
