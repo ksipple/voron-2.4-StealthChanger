@@ -427,7 +427,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 6,
                   "colspan": 2,
                   "enabled": true,
                   "id": "fan_stack",
