@@ -403,67 +403,67 @@
                   "rowspan": 4
                 },
                 {
-                  "col": -1,
+                  "col": 10,
                   "colspan": 2,
                   "enabled": true,
                   "id": "temperature",
-                  "row": -1,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 8,
                   "colspan": 2,
                   "enabled": true,
                   "id": "tool_switcher",
-                  "row": -1,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 6,
                   "colspan": 2,
                   "enabled": true,
                   "id": "led",
-                  "row": -1,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 4,
                   "colspan": 2,
                   "enabled": true,
                   "id": "fan_stack",
-                  "row": -1,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 2,
                   "enabled": true,
                   "id": "notifications",
-                  "row": -1,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 0,
                   "colspan": 2,
                   "enabled": true,
                   "id": "bed_temperature",
-                  "row": -1,
+                  "row": 6,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
-                  "colspan": 4,
+                  "col": 10,
+                  "colspan": 2,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": -1,
+                  "row": 2,
                   "rowspan": 4
                 },
                 {
-                  "col": -1,
+                  "col": 8,
                   "colspan": 2,
                   "enabled": true,
                   "id": "filament",
-                  "row": -1,
+                  "row": 4,
                   "rowspan": 2
                 },
                 {
@@ -475,19 +475,19 @@
                   "rowspan": 4
                 },
                 {
-                  "col": -1,
+                  "col": 6,
                   "colspan": 2,
                   "enabled": true,
                   "id": "macros",
-                  "row": -1,
+                  "row": 4,
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
+                  "col": 4,
                   "colspan": 2,
                   "enabled": true,
                   "id": "ams",
-                  "row": -1,
+                  "row": 4,
                   "rowspan": 2
                 },
                 {
