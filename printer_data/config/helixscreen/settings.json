@@ -697,6 +697,14 @@
                   "id": "exclude_map",
                   "row": 2,
                   "rowspan": 2
+                },
+                {
+                  "col": 10,
+                  "colspan": 2,
+                  "enabled": true,
+                  "id": "display_message",
+                  "row": 2,
+                  "rowspan": 2
                 }
               ]
             }
