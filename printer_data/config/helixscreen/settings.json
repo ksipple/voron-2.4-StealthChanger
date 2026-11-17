@@ -455,7 +455,7 @@
                   "colspan": 2,
                   "enabled": true,
                   "id": "nozzle_temps",
-                  "row": 2,
+                  "row": 0,
                   "rowspan": 4
                 },
                 {
