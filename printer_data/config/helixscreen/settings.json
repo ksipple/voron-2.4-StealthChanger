@@ -399,7 +399,7 @@
                   "colspan": 6,
                   "enabled": true,
                   "id": "print_status",
-                  "row": 0,
+                  "row": 4,
                   "rowspan": 4
                 },
                 {
@@ -451,7 +451,7 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 10,
+                  "col": 0,
                   "colspan": 2,
                   "enabled": true,
                   "id": "nozzle_temps",
