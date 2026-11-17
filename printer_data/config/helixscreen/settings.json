@@ -459,11 +459,11 @@
                   "rowspan": 4
                 },
                 {
-                  "col": 8,
+                  "col": 10,
                   "colspan": 2,
                   "enabled": true,
                   "id": "filament",
-                  "row": 4,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
@@ -595,12 +595,12 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
-                  "colspan": 1,
-                  "enabled": false,
+                  "col": 8,
+                  "colspan": 2,
+                  "enabled": true,
                   "id": "active_spool",
-                  "row": -1,
-                  "rowspan": 1
+                  "row": 4,
+                  "rowspan": 2
                 },
                 {
                   "col": -1,
