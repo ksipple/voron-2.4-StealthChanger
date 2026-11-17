@@ -491,12 +491,12 @@
                   "rowspan": 2
                 },
                 {
-                  "col": -1,
-                  "colspan": 1,
-                  "enabled": false,
+                  "col": 8,
+                  "colspan": 2,
+                  "enabled": true,
                   "id": "shutdown",
-                  "row": -1,
-                  "rowspan": 1
+                  "row": 6,
+                  "rowspan": 2
                 },
                 {
                   "col": -1,
