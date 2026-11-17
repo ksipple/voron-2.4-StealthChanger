@@ -99,9 +99,9 @@ requirements: requirements.txt
 # A systemd path unit handles service restart after Moonraker extracts the update.
 [update_manager helixscreen]
 type: web
-channel: beta
+channel: stable
 repo: prestonbrown/helixscreen
-path: /home/biqu/helixscreen
+path: /home/pi/helixscreen
 
 [update_manager klipper-toolchanger-easy]
 type: git_repo
