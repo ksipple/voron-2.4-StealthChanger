@@ -595,14 +595,6 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 8,
-                  "colspan": 2,
-                  "enabled": true,
-                  "id": "active_spool",
-                  "row": 4,
-                  "rowspan": 2
-                },
-                {
                   "col": -1,
                   "colspan": 1,
                   "enabled": false,
