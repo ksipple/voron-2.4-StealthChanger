@@ -235,8 +235,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"Tinys_Turtle_PLA_1h14m.gcode\",\"job_id\":\"00001E\",\"object_height\":30.0,\"start_time\":1794948345.7640464}",
-        "outlines": "{\"filename\":\"Tinys_Turtle_PLA_1h14m.gcode\",\"objects\":[[[132.6,124.9],[217.4,124.9],[217.4,225.1],[132.6,225.1]]]}"
+        "last_occupied": "{\"filename\":\"Flexi-Factory-alien-squid-spinner_PLA_50m39s.gcode\",\"job_id\":\"00001F\",\"object_height\":30.0,\"start_time\":1794949876.2428987}",
+        "outlines": "{\"filename\":\"Flexi-Factory-alien-squid-spinner_PLA_50m39s.gcode\",\"objects\":[[[139.0,176.8],[139.1,174.9],[144.2,152.3],[144.8,150.5],[145.3,149.8],[146.8,148.4],[147.8,148.1],[202.1,148.1],[202.7,148.2],[204.8,149.9],[205.2,150.5],[205.9,152.3],[210.8,174.7],[211.0,176.8],[210.8,177.9],[210.1,179.6],[197.6,199.1],[196.5,200.4],[195.8,201.0],[193.9,201.8],[193.3,201.9],[156.7,201.9],[154.5,201.2],[153.6,200.6],[152.4,199.1],[140.0,179.6],[139.2,177.9],[139.0,176.8]]]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
