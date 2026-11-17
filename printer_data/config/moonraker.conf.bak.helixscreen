@@ -1,7 +1,7 @@
 [server]
 host: 0.0.0.0
 port: 7125
-klippy_uds_address: /home/biqu/printer_data/comms/klippy.sock
+klippy_uds_address: /home/pi/printer_data/comms/klippy.sock
 
 [authorization]
 trusted_clients:
@@ -41,42 +41,28 @@ channel: dev
 refresh_interval: 168
 
 [update_manager mainsail]
-path: /home/biqu/mainsail
-repo: mainsail-crew/mainsail
-channel: stable
 type: web
+channel: stable
+repo: mainsail-crew/mainsail
+path: ~/mainsail
 
 [update_manager mainsail-config]
-managed_services: klipper
-origin: https://github.com/mainsail-crew/mainsail-config.git
-path: /home/biqu/mainsail-config
+type: git_repo
 primary_branch: master
-type: git_repo
+path: ~/mainsail-config
+origin: https://github.com/mainsail-crew/mainsail-config.git
+managed_services: klipper
 
-[update_manager sonar]
-type: git_repo
-path: ~/sonar
-origin: https://github.com/mainsail-crew/sonar.git
-primary_branch: main
-managed_services: sonar
-install_script: tools/install.sh
-
-[update_manager timelapse]
-type: git_repo
-primary_branch: main
-path: ~/moonraker-timelapse
-origin: https://github.com/mainsail-crew/moonraker-timelapse.git
-managed_services: klipper moonraker
-
-[update_manager print_area_bed_mesh]
-type: git_repo
-path: ~/print_area_bed_mesh
-origin: https://github.com/Turge08/print_area_bed_mesh.git
-is_system_service: False
+# [update_manager timelapse]
+# type: git_repo
+# primary_branch: main
+# path: ~/moonraker-timelapse
+# origin: https://github.com/mainsail-crew/moonraker-timelapse.git
+# managed_services: klipper moonraker
 
 [update_manager axiscope]
 type: git_repo
-path: /home/biqu/axiscope
+path: ~/axiscope
 origin: https://github.com/nic335/Axiscope.git
 primary_branch: main
 is_system_service: True
@@ -99,9 +85,9 @@ requirements: requirements.txt
 # A systemd path unit handles service restart after Moonraker extracts the update.
 [update_manager helixscreen]
 type: web
-channel: stable
+channel: beta
 repo: prestonbrown/helixscreen
-path: /home/pi/helixscreen
+path: ~/helixscreen
 
 [update_manager klipper-toolchanger-easy]
 type: git_repo
@@ -116,7 +102,7 @@ primary_branch: main
 type: git_repo
 origin: https://github.com/Frix-x/klippain-shaketune.git
 path: ~/klippain_shaketune
-virtualenv: /home/biqu/klippy-env
+virtualenv: ~/klippy-env
 requirements: requirements.txt
 system_dependencies: system-dependencies.json
 primary_branch: main
