@@ -259,7 +259,7 @@
       },
       "extra_sensors": {},
       "fans": {
-        "chamber": "fan_generic bed_fan",
+        "chamber": "",
         "exhaust": "",
         "hotend": "heater_fan T0_hotend_fan",
         "part": "fan_generic T0_partfan"
