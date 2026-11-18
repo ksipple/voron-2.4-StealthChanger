@@ -313,7 +313,7 @@
             "temperature_sensor CB1",
             "temperature_sensor octopus_mcu"
           ],
-          "timestamp": "2026-11-18T13:23:55Z"
+          "timestamp": "2026-11-18T13:29:39Z"
         },
         "optional": [
           "neopixel T0_hotend_rgb"
