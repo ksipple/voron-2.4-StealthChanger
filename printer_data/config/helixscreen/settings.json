@@ -289,12 +289,11 @@
             "fan_generic T0_partfan",
             "heater_fan T1_hotend_fan",
             "fan_generic T1_partfan",
-            "controller_fan controller_fan",
-            "fan_generic bed_fan"
+            "controller_fan controller_fan"
           ],
           "filament_sensors": [
-            "filament_switch_sensor T0_fil_det",
-            "filament_switch_sensor O2_sensor"
+            "filament_switch_sensor O2_sensor",
+            "filament_switch_sensor T0_fil_det"
           ],
           "heaters": [
             "heater_bed",
@@ -314,7 +313,7 @@
             "temperature_sensor CB1",
             "temperature_sensor octopus_mcu"
           ],
-          "timestamp": "2026-11-17T21:24:11Z"
+          "timestamp": "2026-11-18T13:22:36Z"
         },
         "optional": [
           "neopixel T0_hotend_rgb"
