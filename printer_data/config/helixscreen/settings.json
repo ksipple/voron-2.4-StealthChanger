@@ -10,9 +10,9 @@
     "gcode_render_mode": 0,
     "glass_probe": {
       "board": "egl/4c/0bm/800x480/32bpp",
-      "frame_ms": 14.186247,
+      "frame_ms": 14.323824,
       "passed": false,
-      "version": "1.1.0-rc.2 (15ac1db)"
+      "version": "1.1.0-rc.4 (a294f77)"
     },
     "gpu_3d_blocked": false,
     "gpu_blur_blocked": false,
