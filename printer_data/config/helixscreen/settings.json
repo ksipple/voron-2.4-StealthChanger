@@ -238,7 +238,7 @@
         "number_lanes_from_zero": true
       },
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"sc_chip_PLA_20m23s.gcode\",\"job_id\":\"000022\",\"object_height\":3.0,\"start_time\":1795362922.8753934}",
+        "last_occupied": "{\"filename\":\"sc_chip_PLA_20m23s.gcode\",\"job_id\":\"000023\",\"object_height\":3.0,\"start_time\":1795363237.0313632}",
         "outlines": "{\"filename\":\"sc_chip_PLA_20m23s.gcode\",\"objects\":[[[155.0,155.0],[195.0,155.0],[195.0,195.0],[155.0,195.0]]]}"
       },
       "default_macros": {
@@ -362,20 +362,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 3.834166666667171
+            "used_h": 4.338055555556139
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 3.834166666667171
+            "used_h": 4.338055555556139
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 3.834166666667171
+            "used_h": 4.338055555556139
           }
         },
-        "total_h": 3.834166666667171
+        "total_h": 4.338055555556139
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
@@ -827,7 +827,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.30978351831436157
+        "heat_rate": 0.3326898515224457
       },
       "heater_bed": {
         "heat_rate": 9.062488555908203
