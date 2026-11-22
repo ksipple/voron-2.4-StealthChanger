@@ -820,6 +820,9 @@
     },
     "show_printer_switcher": false
   },
+  "standard_macros": {
+    "quick_button_3": "heat_soak"
+  },
   "telemetry_enabled": false,
   "theme": {
     "preset": 0
