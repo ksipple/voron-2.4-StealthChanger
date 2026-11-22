@@ -821,7 +821,7 @@
     "show_printer_switcher": false
   },
   "standard_macros": {
-    "quick_button_3": "clean_nozzle"
+    "quick_button_3": "load_filament"
   },
   "telemetry_enabled": false,
   "theme": {
