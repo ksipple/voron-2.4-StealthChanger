@@ -29,8 +29,7 @@ cors_domains:
 [history]
 
 [spoolman]
-server: http://192.168.20.3:7912
-#server: https://spoolman.home.sippleware.com/
+server: http://192.168.20.3:7912 #https://spoolman.home.sippleware.com/
 sync_rate: 5
 
 [file_manager]
@@ -87,7 +86,7 @@ requirements: requirements.txt
 type: web
 channel: beta
 repo: prestonbrown/helixscreen
-path: ~/helixscreen
+path: /home/pi/helixscreen
 
 [update_manager klipper-toolchanger-easy]
 type: git_repo
@@ -97,7 +96,6 @@ origin: https://github.com/jwellman80/klipper-toolchanger-easy.git
 managed_services: klipper
 primary_branch: main
 
-## Klippain Shake&Tune automatic update management
 [update_manager Klippain-ShakeTune]
 type: git_repo
 origin: https://github.com/Frix-x/klippain-shaketune.git
@@ -143,3 +141,12 @@ path: ~/klipper-backup
 origin: https://github.com/Staubgeborener/klipper-backup.git
 managed_services: moonraker
 primary_branch: main
+
+[update_manager ToolConfig]
+type: git_repo
+path: ~/ToolConfig
+origin: https://github.com/dking484/ToolConfig.git
+primary_branch: main
+channel: stable
+managed_services: klipper
+
