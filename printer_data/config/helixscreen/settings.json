@@ -238,7 +238,7 @@
         "number_lanes_from_zero": true
       },
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"sc_chip_PLA_20m23s.gcode\",\"job_id\":\"000021\",\"object_height\":3.0,\"start_time\":1795361885.9832144}",
+        "last_occupied": "{\"filename\":\"sc_chip_PLA_20m23s.gcode\",\"job_id\":\"000022\",\"object_height\":3.0,\"start_time\":1795362922.8753934}",
         "outlines": "{\"filename\":\"sc_chip_PLA_20m23s.gcode\",\"objects\":[[[155.0,155.0],[195.0,155.0],[195.0,195.0],[155.0,195.0]]]}"
       },
       "default_macros": {
