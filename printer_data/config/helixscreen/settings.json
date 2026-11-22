@@ -821,8 +821,20 @@
     "show_printer_switcher": false
   },
   "standard_macros": {
+    "bed_level": "",
+    "bed_mesh": "",
+    "cancel": "",
+    "clean_nozzle": "KOMB",
+    "heat_soak": "",
+    "load_filament": "",
+    "park_toolhead": "",
+    "pause": "",
+    "purge": "",
     "quick_button_3": "load_filament",
-    "quick_button_4": "unload_filament"
+    "quick_button_4": "unload_filament",
+    "resume": "",
+    "screws_tilt": "",
+    "unload_filament": ""
   },
   "telemetry_enabled": false,
   "theme": {
